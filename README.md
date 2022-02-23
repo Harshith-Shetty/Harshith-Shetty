@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshith-shetty&show_icons=true&cache_seconds=60&locale=en&layout=compact&theme=dark" alt="harshith-shetty" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshith-shetty&theme=vision-friendly-dark&show_icons=true&locale=en" alt="harshith-shetty" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith-shetty&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="harshith-shetty" /></p>
