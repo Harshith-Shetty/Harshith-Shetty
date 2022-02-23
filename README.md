@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/0GPdNB2/Harshith-Git-Hub-picture.gif" alt="Harshith-Git-Hub-picture" border="0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="harshith-shetty" /> </p>
+<p align="left"> <a href="https://twitter.com/im_hshetty" target="blank"><img src="https://img.shields.io/twitter/follow/im_hshetty?logo=twitter&style=for-the-badge" alt="im_hshetty" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud Computing & Quantum Copmuting**
 
@@ -59,9 +60,8 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshith-Shetty&show_icons=true&locale=en&layout=compact" alt="Harshith-Shetty" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshith-shetty&show_icons=true&cache_seconds=60&locale=en&layout=compact&theme=dark" alt="harshith-shetty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshith-Shetty&theme=vision-friendly-dark&show_icons=true&locale=en" alt="harshith-shetty" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshith-shetty&theme=vision-friendly-dark&show_icons=true&locale=en" alt="harshith-shetty" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith-shetty&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="harshith-shetty" /></p>
