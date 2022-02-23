@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **harshtihdshetty@gmail.com**
 
-- 📄 Know about my experiences [https://harshithshetty.s3.amazonaws.com/Resume/Harshith%2BShetty-Resume.pdf](https://harshithshetty.s3.amazonaws.com/Resume/Harshith%2BShetty-Resume.pdf)
+- 📄 Know about my experiences [Resume](https://harshithshetty.s3.amazonaws.com/Resume/Harshith%2BShetty-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
