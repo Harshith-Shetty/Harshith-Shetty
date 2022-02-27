@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Cloud Computing & Quantum Copmuting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshith-Shetty](https://github.com/Harshith-Shetty)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Harshith-Shetty)
 
-- 📝 I Usually write articles on [https://medium.com/@shettyharshith](https://medium.com/@shettyharshith)
+- 📝 I Usually write articles on [Medium](https://medium.com/@shettyharshith)
 
 - 💬 Ask me about **AWS and Azure**
 
