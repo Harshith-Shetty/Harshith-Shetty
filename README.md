@@ -29,15 +29,10 @@ Here are some ideas to get you started:
 [![Twitter: Harshith Shetty](https://img.shields.io/twitter/follow/im_hshetty?style=social)](https://twitter.com/im_hshetty)
 [![Medium Badge](https://img.shields.io/badge/-@shettyharshith-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shettyharshith)](https://medium.com/@shettyharshith)
 
-[![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith-Shetty&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Harshith=Shetty/github-readme-stats)
+[![Harshith's GitHub stats-Dark](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&hide=issues&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-dark-mode-only)
+[![Harshith's GitHub stats-light](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&hide=issues&count_private=true&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith-shetty&layout=compact&theme=dark)](https://github.com/Harshith-shetty/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
-
-
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshith-shetty&show_icons=true&&locale=en&layout=compact&theme=dark" alt="harshith-shetty" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshith-shetty&theme=vision-friendly-dark&show_icons=true&locale=en" alt="harshith-shetty" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith-shetty&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="harshith-shetty" /></p>
-
 
 - 🌱 I’m currently learning **Cloud Computing & Quantum Copmuting**
 
