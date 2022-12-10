@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 [![Harshith's GitHub stats-Dark](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&card_width=380px#gh-dark-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-dark-mode-only)
 [![Harshith's GitHub stats-light](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&count_private=true&show_icons=true&theme=flag-india&hide_border=true&card_width=380px#gh-light-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-light-mode-only)
-[![GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&count_private=true&hide_border=true&card_height=300px&card_width=380px&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-light](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=flag-india&count_private=true&hide_border=true&card_width=380px&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 [![Top Langs-Dark](https://github.api.harshithshetty.dev/api/top-langs/?username=Harshith-shetty&theme=vision-friendly-dark&count_private=true&hide_border=true&card_width=380px&langs_count=3#gh-dark-mode-only)](https://github.com/Harshith-shetty/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github.api.harshithshetty.dev/api/top-langs/?username=Harshith-shetty&theme=flag-india&count_private=true&hide_border=true&card_width=380px&langs_count=3#gh-light-mode-only)](https://github.com/Harshith-shetty/github-readme-stats#gh-light-mode-only)
 [![Readme Card-Dark](https://github.api.harshithshetty.dev/api/pin/?username=Harshith-Shetty&repo=Leetcode&theme=vision-friendly-dark&hide_border=true#gh-dark-mode-only)](https://github.com/Harshith-Shetty/Leetcode#gh-dark-mode-only)
@@ -75,8 +73,5 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 </p>
 
-
-
-<br><br>
-
-
+[![GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&count_private=true&hide_border=true&card_height=300px&card_width=380px&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak-light](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=flag-india&count_private=true&hide_border=true&card_width=380px&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
