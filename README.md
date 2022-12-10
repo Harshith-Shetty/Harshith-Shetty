@@ -21,10 +21,23 @@ Here are some ideas to get you started:
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h1 align="center">Hi 👋, I'm Harshith Shetty</h1>
 <!-- <h3 align="center">A passionate Cloud Engineer from India</h3> -->
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/0GPdNB2/Harshith-Git-Hub-picture.gif" alt="Harshith-Git-Hub-picture" border="0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="harshith-shetty" /> </p>
-<p align="left"> <a href="https://twitter.com/im_hshetty" target="blank"><img src="https://img.shields.io/twitter/follow/im_hshetty?logo=twitter&style=for-the-badge" alt="im_hshetty" /></a> </p>
+[![Profile view](https://komarev.com/ghpvc/?username=harshith-shetty&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Harshith-Shetty)
+
+[![GitHub Harshith-Shetty](https://img.shields.io/github/followers/Harshith-Shetty?label=follow&style=social)](https://github.com/Harshith-Shetty)
+[![Linkedin: Harshith Shetty](https://img.shields.io/badge/-Harshith%20Shetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshithdshetty/)](https://www.linkedin.com/in/harshithdshetty/) 
+[![Twitter: Harshith Shetty](https://img.shields.io/twitter/follow/im_hshetty?style=social)](https://twitter.com/im_hshetty)
+[![Medium Badge](https://img.shields.io/badge/-@shettyharshith-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shettyharshith)](https://medium.com/@shettyharshith)
+
+[![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith-Shetty&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Harshith=Shetty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith-shetty&layout=compact&theme=dark)](https://github.com/Harshith-shetty/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+
+
+<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshith-shetty&show_icons=true&&locale=en&layout=compact&theme=dark" alt="harshith-shetty" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshith-shetty&theme=vision-friendly-dark&show_icons=true&locale=en" alt="harshith-shetty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith-shetty&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="harshith-shetty" /></p>
+
 
 - 🌱 I’m currently learning **Cloud Computing & Quantum Copmuting**
 
@@ -38,12 +51,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Resume](https://harshithshetty.s3.amazonaws.com/Resume/Harshith+Shetty+-Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshithdshetty" height="30" width="40" /></a>
-<a href="https://twitter.com/im_hshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_hshetty" height="30" width="40" /></a>
-<a href="https://instagram.com/_shetty.harshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shetty.harshith" height="30" width="40" /></a>
-<a href="https://medium.com/@shettyharshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shettyharshith" height="30" width="40" /></a>
+<h3 align="left">Coding Platform</h3>
+
 <a href="https://www.leetcode.com/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshithdshetty" height="30" width="40" /></a>
 <!-- <a href="https://auth.geeksforgeeks.org/user/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshithdshetty" height="30" width="40" /></a> -->
 </p>
@@ -77,6 +86,4 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshith-shetty&show_icons=true&&locale=en&layout=compact&theme=dark" alt="harshith-shetty" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshith-shetty&theme=vision-friendly-dark&show_icons=true&locale=en" alt="harshith-shetty" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith-shetty&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="harshith-shetty" /></p>
+
