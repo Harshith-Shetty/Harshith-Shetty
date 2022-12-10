@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/W59tdSN/ezgif-com-gif-maker-1.gif)](https://harshithshetty.dev)
+
 
 <!--
 **Harshith-Shetty/Harshith-Shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h1 align="center">Hi 👋, I'm Harshith Shetty</h1>
-<h3 align="center">A passionate Cloud Engineer from India</h3>
+<!-- <h3 align="center">A passionate Cloud Engineer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/0GPdNB2/Harshith-Git-Hub-picture.gif" alt="Harshith-Git-Hub-picture" border="0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="harshith-shetty" /> </p>
@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/im_hshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_hshetty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshithdshetty" height="30" width="40" /></a>
+<a href="https://twitter.com/im_hshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_hshetty" height="30" width="40" /></a>
 <a href="https://instagram.com/_shetty.harshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shetty.harshith" height="30" width="40" /></a>
 <a href="https://medium.com/@shettyharshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shettyharshith" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshithdshetty" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshithdshetty" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/harshithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshithdshetty" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
