@@ -27,13 +27,14 @@ Here are some ideas to get you started:
 [![Twitter: Harshith Shetty](https://img.shields.io/twitter/follow/im_hshetty?style=social)](https://twitter.com/im_hshetty)
 [![Medium Badge](https://img.shields.io/badge/-@shettyharshith-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shettyharshith)](https://medium.com/@shettyharshith)
 
-[![Harshith's GitHub stats-Dark](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&hide=issues&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&card_width=400px#gh-dark-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-dark-mode-only)
-[![Harshith's GitHub stats-light](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&hide=issues&count_private=true&show_icons=true&theme=light&hide_border=true&card_width=400px#gh-light-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-light-mode-only)
-[![GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&hide_border=true&card_width=400px&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-light](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&&hide_border=true&card_width=400px&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github.api.harshithshetty.dev/api/top-langs/?username=Harshith-shetty&theme=vision-friendly-dark&hide_border=true&card_width=400px#gh-dark-mode-only)](https://github.com/Harshith-shetty/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github.api.harshithshetty.dev/api/top-langs/?username=Harshith-shetty&theme=light&hide_border=true&card_width=400px#gh-light-mode-only)](https://github.com/Harshith-shetty/github-readme-stats#gh-light-mode-only)
-
+[![Harshith's GitHub stats-Dark](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&card_width=380px#gh-dark-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-dark-mode-only)
+[![Harshith's GitHub stats-light](https://github.api.harshithshetty.dev/api?username=Harshith-Shetty&count_private=true&show_icons=true&theme=flag-india&hide_border=true&card_width=380px#gh-light-mode-only)](https://github.com/Harshith-Shetty/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=dark&count_private=true&hide_border=true&card_height=300px&card_width=380px&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak-light](http://github-readme-streak-stats.herokuapp.com?user=Harshith-Shetty&theme=flag-india&count_private=true&hide_border=true&card_width=380px&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github.api.harshithshetty.dev/api/top-langs/?username=Harshith-shetty&theme=vision-friendly-dark&count_private=true&hide_border=true&card_width=380px&langs_count=3#gh-dark-mode-only)](https://github.com/Harshith-shetty/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github.api.harshithshetty.dev/api/top-langs/?username=Harshith-shetty&theme=flag-india&count_private=true&hide_border=true&card_width=380px&langs_count=3#gh-light-mode-only)](https://github.com/Harshith-shetty/github-readme-stats#gh-light-mode-only)
+[![Readme Card-Dark](https://github.api.harshithshetty.dev/api/pin/?username=Harshith-Shetty&repo=Leetcode&theme=vision-friendly-dark&hide_border=true#gh-dark-mode-only)](https://github.com/Harshith-Shetty/Leetcode#gh-dark-mode-only)
+[![Readme Card-Light](https://github.api.harshithshetty.dev/api/pin/?username=Harshith-Shetty&repo=Leetcode&theme=flag-india&hide_border=true#gh-light-mode-only)](https://github.com/Harshith-Shetty/Leetcode#gh-light-mode-only)
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
 <a href="https://www.credly.com/badges/83b7f93f-fe27-474a-908f-5bd08c43f730/public_url" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/PWkkWrH/aws-certified-solutions-architect-associate-1.png" alt="AWS-SAA" width="100" height="100"/> </a> 
@@ -44,15 +45,10 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I’m currently learning **Cloud Computing & Quantum Copmuting**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Harshith-Shetty)
-
 - 📝 I Usually write articles on [Medium](https://medium.com/@shettyharshith)
-
 - 💬 Ask me about **AWS and Azure**
-
 - 📫 How to reach me **harshtihdshetty@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://harshithshetty.s3.amazonaws.com/Resume/Harshith+Shetty+-Resume.pdf)
 
 <h3 align="left">Coding Platform</h3>
