@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 📝 I Usually write articles on [Medium](https://medium.com/@shettyharshith)
 - 💬 Ask me about **AWS and Azure**
 - 📫 How to reach me **harshtihdshetty@gmail.com**
-- 📄 Know about my experiences [Resume](https://harshithshetty.s3.amazonaws.com/Resume/Harshith+Shetty+-Resume.pdf)
+- 📄 Know about my experiences [Resume](https://resume.harshithshetty.dev)
 
 <h3 align="left">Coding Platform</h3>
 
