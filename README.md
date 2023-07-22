@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/65eb223d-6331-4b0d-af62-dfeae4e4621c/public_url" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/7S8Fbzn/image12.png" width="100" height="100"/> </a>
 </p>
 
-- 🌱 I’m currently learning **Cloud Computing & Quantum Copmuting**
+- 🌱 I’m currently learning **Cloud Computing & Quantum Computing**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Harshith-Shetty)
 - 📝 I Usually write articles on [Medium](https://medium.com/@shettyharshith)
 - 💬 Ask me about **AWS and Azure**
-- 📫 How to reach me **harshtihdshetty@gmail.com**
+- 📫 How to reach me **harshithdshetty@gmail.com**
 - 📄 Know about my experiences [Resume](https://resume.harshithshetty.dev)
 
 <h3 align="left">Coding Platform</h3>
